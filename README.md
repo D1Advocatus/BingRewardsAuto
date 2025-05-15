@@ -1,7 +1,7 @@
 # 🌟 BingRewardsAuto
-
+<p align="center">
 ![Extension Icon](images/icon.png) <!-- Replace with actual path to your icon -->
-
+<p/>
 **Browser Extension for Edge & Chrome**  
 _Earn your daily Bing Rewards Points with just one click!_
 
@@ -26,8 +26,8 @@ Designed to streamline your point-earning process, this user-friendly tool offer
 
 ### 🔗 Option 1: Chrome Web Store *(Recommended)*
 
-> Download directly from the **[Chrome Web Store](#)**  
-> _(Insert actual link when available)_
+> Download directly from the **[MS Store](#)**  
+> _(Commming soon)_
 
 ### 🛠 Option 2: Manual Installation (Developer Mode)
 
@@ -41,8 +41,9 @@ Designed to streamline your point-earning process, this user-friendly tool offer
 ---
 
 ## 🖼 Screenshot
-
+<p align="center">
 ![Extension Screenshot](images/screenshot.png) <!-- Replace with actual path to your screenshot -->
+<p/>
 
 ---
 
