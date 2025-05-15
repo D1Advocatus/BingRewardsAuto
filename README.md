@@ -1,15 +1,20 @@
-# 🌟 BingRewardsAuto
+<h1 align="center">🌟 BingRewardsAuto</h1>
+
 <p align="center">
-![Extension Icon](images/icon.png) <!-- Replace with actual path to your icon -->
-<p/>
-**Browser Extension for Edge & Chrome**  
-_Earn your daily Bing Rewards Points with just one click!_
+  <img src="images/icon.png" alt="Extension Icon" />
+</p>
+
+<p align="center">
+  <strong>Browser Extension for Edge & Chrome</strong><br/>
+  <em>Earn your daily Bing Rewards Points with just one click!</em>
+</p>
 
 ---
 
 ## 🚀 Overview
 
 Maximize your **Microsoft Rewards** earnings with **BingRewardsAuto** – an automated Bing search extension.  
+
 Designed to streamline your point-earning process, this user-friendly tool offers several key benefits:
 
 ---
@@ -27,7 +32,7 @@ Designed to streamline your point-earning process, this user-friendly tool offer
 ### 🔗 Option 1: Chrome Web Store *(Recommended)*
 
 > Download directly from the **[MS Store](#)**  
-> _(Commming soon)_
+> _(Coming soon)_
 
 ### 🛠 Option 2: Manual Installation (Developer Mode)
 
@@ -40,9 +45,9 @@ Designed to streamline your point-earning process, this user-friendly tool offer
 
 ---
 
-## 🖼 Screenshot
+<h1 align="center">🖼 Screenshot </h1>
 <p align="center">
-![Extension Screenshot](images/screenshot.png) <!-- Replace with actual path to your screenshot -->
+<img src="images/screenshot.png" alt="Extension Icon"  width="600" /><!-- Replace with actual path to your screenshot -->
 <p/>
 
 ---
